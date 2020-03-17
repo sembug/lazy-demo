@@ -51,6 +51,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/milligram/dist/milligram.min.css",
               "src/styles.css"
             ],
             "scripts": []
